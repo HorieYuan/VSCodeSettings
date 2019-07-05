@@ -1,0 +1,16 @@
+{
+    "autoDocstring.docstringFormat": "google",
+    "editor.fontSize": 16,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "editor.rulers": [
+        100
+    ],
+    "markdown.preview.doubleClickToSwitchToEditor": false,
+    "python.autoComplete.addBrackets": true,
+    "python.linting.pylintArgs": [
+        "--no-member"
+    ],
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
+}
