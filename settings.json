@@ -9,6 +9,9 @@
     ],
     "markdown.preview.doubleClickToSwitchToEditor": false,
     "python.autoComplete.addBrackets": true,
+    "python.formatting.autopep8Args": [
+        "--max-line-length=100"
+    ],
     "python.linting.pylintArgs": [
         "--no-member"
     ],
