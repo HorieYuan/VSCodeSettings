@@ -10,10 +10,12 @@
     "markdown.preview.doubleClickToSwitchToEditor": false,
     "python.autoComplete.addBrackets": true,
     "python.formatting.autopep8Args": [
+        "--ignore=E402",
         "--max-line-length=100"
     ],
     "python.linting.pylintArgs": [
         "--no-member"
     ],
-    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "window.titleBarStyle": "custom",
 }
